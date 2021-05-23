@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to repository, i do have interest in web development and love to explore new frameworks as and when I find time. Software development on most parts is about problem solving, and learning software development isn't much fun without them. So yeah if you are new to software development
 <!--
 **underager/underager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
