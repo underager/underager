@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to profile, i do have interest in web development and love to explore new frameworks as and when I find time. Software development on most parts is about problem solving, and learning software development isn't much fun without them. So yeah if you are new to software development and if you get bogged by all of these frameworks and all, don't worry much, take things at your own pace and always focuss on problem solving....AND YEAH DO BELIEVE IN WRITING CLEAN CODE....I put that in caps, I cannot say it enough...cheers :)
+Welcome to profile, i do have interest in web development and love to explore new frameworks as and when I find time. Software development on most parts is about problem solving, and learning software development isn't much fun without them. So yeah if you are new to software development and if you get bogged by all of these frameworks and all, don't worry much, take things at your own pace and always focus on problem solving....AND YEAH DO BELIEVE IN WRITING CLEAN CODE....I put that in caps, I cannot say it enough...cheers :)
 <!--
 **underager/underager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
